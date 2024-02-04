@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseConfiguration>
+    <databaseType>MySQL</databaseType>
+    <databaseName>o_exam</databaseName>
+    <databaseHost>172.20.94.32</databaseHost>
+    <username ENCRYPTED="Yes">viewer</username>
+    <password ENCRYPTED="Yes">V!ew3r$100!</password>
+</databaseConfiguration>
